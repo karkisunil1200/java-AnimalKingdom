@@ -1,0 +1,7 @@
+Instructions
+
+javac animalKingdom/*.java
+
+jar cvfe animalKingdom.jar animalKingdom.Main animalKingdom/*.class
+
+java -jar animalKingdom.jar
